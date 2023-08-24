@@ -17,10 +17,6 @@
 {.list}
 :::
 
-::: {.right}
-![杨文莉](./me.jpg =127x170){.portrait}
-:::
-
 ::::
 
 :::: {.main-content}
